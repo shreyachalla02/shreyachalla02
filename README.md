@@ -39,4 +39,4 @@ With experience in **SOC operations, vulnerability assessment, Microsoft securit
 ## 📫 Let's Connect
 Linkedin(https://www.linkedin.com/in/sai-shreya-challa-905000160/)
 - **LinkedIn**: [Sai Shreya Challa](https://linkedin.com/in/sai-shreya-challa-905000160)  
-- **Email**: chsaishreya@gmail.com  
+- **Email**: challasaishreya@gmail.com  
