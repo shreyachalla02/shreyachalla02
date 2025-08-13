@@ -26,14 +26,7 @@ With experience in **SOC operations, vulnerability assessment, Microsoft securit
 
 ## 📌 Featured Projects
 
-### [SOC-Alert-Analysis](https://github.com/USERNAME/SOC-Alert-Analysis)
-Simulated SOC alert triage in Microsoft Sentinel. Reviewed incidents, identified root causes, and provided clear, actionable remediation steps for IT team review.
 
-### [Vulnerability-Assessment-Report](https://github.com/USERNAME/Vulnerability-Assessment-Report)
-Performed Nessus vulnerability scanning, prioritized findings with CVSS scoring, and developed IT-ready remediation plans with risk justifications.
-
-### [GRC-Policy-Framework](https://github.com/USERNAME/GRC-Policy-Framework)
-Created a sample IT Security Policy aligned with ISO 27001 controls, linked to findings from Microsoft Secure Score and risk assessments.
 
 ---
 
